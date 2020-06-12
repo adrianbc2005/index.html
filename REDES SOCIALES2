@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>REDES SOCIALES</title>
+<meta charset="utf-8">
+</head>
+<body>
+
+<h1>Facebook</h1>
+<h3>Facebook, Inc. es una compañía de origen estadounidense que ofrece servicios de redes sociales y medios sociales en línea con sede en Menlo Park</h3>
+<img src="face.jpg">
+
+<h1>whatsap</h1>
+<h3>WhatsApp Messenger es una aplicación de mensajería instantánea para teléfonos inteligentes</h3>
+<img src="what.jpg">
+
+<h1>Messenger</h1>
+<h3>Facebook Messenger es una aplicación de mensajería. Originalmente desarrollada como Facebook Chat en 2008</h3>
+<img src="mes.jpg">
+
+</body>
+</html>
